@@ -26,6 +26,8 @@ class Admin::CategoriesController < ApplicationController
     redirect_to [:admin, :categories], notice: 'Category deleted!'
   end
 
+  private
+  
   def category_params
     params.require(:category).permit(
       :name
