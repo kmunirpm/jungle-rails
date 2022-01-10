@@ -15,7 +15,7 @@
           <%= link_to 'Home', :root %>
         </li>
         <li>
-        <a href="/about" class="dropdown-toggle">About</a>
+          <a href="/about">About</a>
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
@@ -30,9 +30,14 @@
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-       <li class="dropdown">
+        <li>
+          <a href="/users/new">Register</a>
+        </li>
+        <li>
+          <a href="/users">Login</a>
+        </li>
+        <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-
             <span class="text-danger"><%= fa_icon 'lock', text: 'Admin' %></span>
             <span class="caret"></span>
           </a>
