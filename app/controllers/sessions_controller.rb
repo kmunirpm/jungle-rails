@@ -9,10 +9,10 @@ class SessionsController < ApplicationController
     if user && user.authenticate(params[:login][:password])
       session[:user_id] = user.id
       puts "logged in as #{user.id}"
-      #redirect_to '/'
-    #else
-      #redirect_to '/login'
-     # puts "login failed", params[:login][:password]
+      redirect_to '/'
+    else
+      redirect_to '/login'
+      puts "login failed", params[:login][:password]
     end 
   end
 
