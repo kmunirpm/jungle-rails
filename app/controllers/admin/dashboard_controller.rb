@@ -1,6 +1,4 @@
-class Admin::DashboardController < ApplicationController
-
-  http_basic_authenticate_with name: ENV['USERNAME'], password: ENV['PASSWORD']
+class Admin::DashboardController < Admin::BaseController
 
   def show
     @products = Product.all.order(created_at: :desc)
