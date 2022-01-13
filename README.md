@@ -55,5 +55,8 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 #### Admin: Categories
 !["Admin Categories"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/admin_categories.png)
 
-#### Admin: Current Categories
-!["Admin Products"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/admin_products_.png)
+#### Admin: Products
+!["Admin Products"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/admin_products.png)
+
+#### Admin: Sales
+!["Admin Sales"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/admin_sales.png)
