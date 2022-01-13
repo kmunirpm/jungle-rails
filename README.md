@@ -35,25 +35,25 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 ## Sample Screenshots
 
 #### Home Page
-!["Home Page"](https://github.com/MorsalN/jungle-rails/blob/master/docs/images/home.png)
+!["Home Page"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/home.png)
 
 #### User Registration
-!["User Registration"](https://github.com/MorsalN/jungle-rails/blob/master/docs/images/registration.png)
+!["User Registration"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/registration.png)
 
 #### User Registration - Validation
-!["User Registration - Validation"](https://github.com/MorsalN/jungle-rails/blob/master/docs/images/registration_val.png)
+!["User Registration - Validation"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/registration_val.png)
 
 #### Login
-!["Login"](https://github.com/MorsalN/jungle-rails/blob/master/docs/images/login.png)
+!["Login"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/login.png)
 
 #### Shopping Cart 
-!["Shopping Cart"](https://github.com/MorsalN/jungle-rails/blob/master/docs/images/cart.png)
+!["Shopping Cart"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/cart.png)
 
 #### Order Confirmation 
-!["Order Confirmation"](https://github.com/MorsalN/jungle-rails/blob/master/docs/images/order_confirmation.png)
+!["Order Confirmation"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/order_confirmation.png)
 
 #### Admin: Categories
-!["Admin Categories"](https://github.com/MorsalN/jungle-rails/blob/master/docs/images/admin_categories.png)
+!["Admin Categories"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/admin_categories.png)
 
 #### Admin: Current Categories
-!["Admin Products"](https://github.com/MorsalN/jungle-rails/blob/master/docs/images/admin_products_.png)
+!["Admin Products"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/admin_products_.png)
