@@ -32,7 +32,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * PostgreSQL 9.x
 * Stripe
 
-## Sample Screenshots
+## Sample system screens
 
 #### Home Page
 !["Home Page"](https://github.com/kmunirpm/jungle-rails/blob/master/docs/images/home.png)
